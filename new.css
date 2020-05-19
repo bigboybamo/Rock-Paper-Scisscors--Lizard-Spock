@@ -1,0 +1,66 @@
+.image{
+
+width: 50px;
+
+float: left;
+margin: auto 5px;
+
+}
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 30px;
+  }
+
+.centered{
+
+    position: absolute;
+    
+    
+
+}
+
+.compimage{
+
+    width: 50px;
+    
+    float: left;
+    margin: auto 5px;
+    
+    }
+
+    .youimage{
+
+        width: 50px;
+        
+        float: left;
+        margin: auto 5px;
+        
+        }
+
+        body{
+
+            background-color: bisque;
+        }
+
+        .head{
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+        }
+
+        p{
+            font-family: Georgia, 'Times New Roman', Times, serif;
+
+        }
+
+        button{
+padding: 1%;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+border-style: inset;
+
+        }
