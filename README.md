@@ -2,4 +2,4 @@
 
 Based on the big bang theory.
 
-Simple game that let me practive DOM manipulation
+A simple game that let me practice DOM manipulation
